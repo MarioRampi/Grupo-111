@@ -6,3 +6,7 @@ git clone url
 VER ESTADO DE REPOSITORIO
 git status
 
+HACER COMMIT
+git add .
+
+git commit -m 'Comentario descriptivo'

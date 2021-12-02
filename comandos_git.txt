@@ -10,3 +10,6 @@ HACER COMMIT
 git add .
 
 git commit -m 'Comentario descriptivo'
+
+GUARDAR EN REPO REMOTO
+git push origin [rama]

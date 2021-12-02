@@ -1,0 +1,8 @@
+CREAR REPOSITORIO
+git init
+
+git clone url
+
+VER ESTADO DE REPOSITORIO
+git status
+

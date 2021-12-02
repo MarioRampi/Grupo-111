@@ -1,0 +1,16 @@
+CREAR RAMAS
+git branch [nombre_de_rama]
+
+git checkout -b  [nombre_de_rama]
+
+LISTAR RAMAS
+git branch
+
+CAMBIAR DE RAMAS
+git checkout [nombre_rama]
+
+UNIR RAMAS
+git merge [nombre_rama]
+
+VER DIFERENCIAS
+git diff rama1 rama2
